@@ -1,0 +1,15 @@
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\bin\Debug\net6.0\roomCalcLab.exe
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\bin\Debug\net6.0\roomCalcLab.deps.json
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\bin\Debug\net6.0\roomCalcLab.runtimeconfig.json
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\bin\Debug\net6.0\roomCalcLab.dll
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\bin\Debug\net6.0\roomCalcLab.pdb
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\obj\Debug\net6.0\roomCalcLab.csproj.AssemblyReference.cache
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\obj\Debug\net6.0\roomCalcLab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\obj\Debug\net6.0\roomCalcLab.AssemblyInfoInputs.cache
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\obj\Debug\net6.0\roomCalcLab.AssemblyInfo.cs
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\obj\Debug\net6.0\roomCalcLab.csproj.CoreCompileInputs.cache
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\obj\Debug\net6.0\roomCalcLab.dll
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\obj\Debug\net6.0\refint\roomCalcLab.dll
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\obj\Debug\net6.0\roomCalcLab.pdb
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\obj\Debug\net6.0\roomCalcLab.genruntimeconfig.cache
+C:\Users\bowha\source\repos\roomCalcLab\roomCalcLab\obj\Debug\net6.0\ref\roomCalcLab.dll
